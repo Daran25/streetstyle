@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sport Center</title>
+	<title>Street Style</title>
     <link rel="shortcut icon" href="img/logos.png">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
